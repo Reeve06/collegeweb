@@ -1,0 +1,125 @@
+
+body{
+    background-color: #212529;
+    color: #FF8906;
+
+}
+p{color:aliceblue!important;}
+
+.navbar-brand{
+border-left: solid 4px #FF8906!important; 
+border-bottom:solid 4px #FF8906!important; 
+border-top:solid 4px #A7A9BE; 
+border-right:solid 4px #A7A9BE; 
+background-color:black;  
+padding-left: 10px;
+padding-right:10px;
+
+}
+
+h3{
+    color: #FF8906!important;
+    font-size: 1.5em;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+.navbar-light{
+    background-color:#F25F4C!important;   
+}
+
+.navbar-toggler{
+    background-color:#FF8906!important; 
+   
+
+}
+
+h1.display-4{
+color:aliceblue;
+font-family: 'Courgette';
+padding-top: 20px;
+text-align: center;
+}
+
+h4{
+    color:aliceblue;
+    font-family: 'Courgette';
+    padding-top: 20px;
+    
+    }
+
+span{
+color:#dc3545;
+
+}
+
+.col-sm{
+    align-self: center!important;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+
+
+.fas{
+    color:#357ff5;  
+    font-size:5em;
+}
+
+.card{
+      
+    align-self: center!important;
+   
+}
+
+.card-body{
+    color:#FF8906!important; 
+    align-self: center;
+
+}
+
+.card-title{
+    align-self: center;
+
+}
+
+.card-img-top{
+    align-self: center;
+
+}
+
+.btn-outline-primary{
+    align-content: center;
+    color:#dc3545;
+}
+
+#id{
+    color:aliceblue;
+    font-family: 'Courgette', cursive;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+.btn-primary{
+    box-align: center!important;
+    background-color:  #F25F4C;
+ 
+}
+
+.form-group{
+    box-align: center!important; 
+}
+
+.Cookie_Policy{
+    align-self: right!important;
+
+
+}
+
+.nav-footer{
+    box-align: bottom!important;
+    align-self: bottom!important;  
+    width: 100%!important;
+    float: bottom!important;
+}
